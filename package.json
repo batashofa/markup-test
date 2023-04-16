@@ -1,5 +1,5 @@
 {
-  "name": "test-scand",
+  "name": "markup test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,6 +23,7 @@
     "babel-preset-es2015": "^6.24.1",
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.7.3",
+    "filemanager-webpack-plugin": "^8.0.0",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.7.5",
     "postcss": "^8.4.21",
